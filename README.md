@@ -11,7 +11,7 @@ I'm passionate about combining **biology** and **data science** to solve real-wo
 
 I’ve developed **deep learning pipelines**, analyzed **genomic datasets**, and worked on **protein modeling** and **classification models**. My projects reflect my interest in applying **AI in bioinformatics**.
 
-## 🚀 Github Projects
+## 🚀 Projects
 
 ### 🔢 [Image Classification Server](https://github.com/Pulkit1704/mnist_cnn.git)
 *Python, PyTorch, CNN, Flask, Docker*
