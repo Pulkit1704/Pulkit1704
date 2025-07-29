@@ -41,4 +41,3 @@ I’ve developed **deep learning pipelines**, analyzed **genomic datasets**, and
 
 - 📧 pgoel3379@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/pulkit1704)  
-- 💻 [GitHub](https://github.com/Pulkit1704)
