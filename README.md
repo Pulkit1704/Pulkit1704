@@ -31,10 +31,11 @@ I’ve developed **deep learning pipelines**, analyzed **genomic datasets**, and
 
 ## 🛠️ Skills
 
-- **Languages/Tools**: Python, Bash, Git, Linux, Docker, Jupyter
+- **Languages/Tools**: Python, Bash, Rust, Java, HTML, CSS and Javascript
 - **ML/DS**: CNN, LSTM, SVM, PCA, SMOTE, Deep Learning Pipelines
 - **Bioinformatics**: CHiP-seq, RNA-seq, Mass Spec, Genome Annotation
-- **Libraries**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Seaborn, Plotly
+- **Libraries**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Seaborn, Plotly, matplotlib
+- **Tools**: Git, Jupyter, Docker
 
 
 ## 📫 Get in Touch
