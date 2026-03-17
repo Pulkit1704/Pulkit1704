@@ -28,13 +28,17 @@ I’ve developed **deep learning pipelines**, analyzed **genomic datasets**, and
 - Developed an SVM classifier for cancer subtype prediction from gene expression data.
 - Used PCA for dimensionality reduction and SMOTE for class balance.
 
+### [Drug Blood Brain Barrier Prediction Model](https://github.com/Pulkit1704/drug-blood-brain-barrier-prediction-model.git)
+*Python, Pytorch-geometric, GINE network, Deep Learning*
+- Developed a Graph Isomorphism Network (GINE) to predict drug permeability into the CNS, explicitly modeling chemical bond attributes.
+- Implemented Bemis-Murcko Scaffold Splitting on a merged BBBP/B3DB dataset to ensure model generalization across novel chemical families (0.82 F1-score).
 
 ## 🛠️ Skills
 
 - **Languages/Tools**: Python, Bash, Rust, Java, HTML, CSS and Javascript
-- **ML/DS**: CNN, LSTM, SVM, PCA, SMOTE, Deep Learning Pipelines
-- **Bioinformatics**: CHiP-seq, RNA-seq, Mass Spec, Genome Annotation
-- **Libraries**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Seaborn, Plotly, matplotlib
+- **ML/DS**: CNN, LSTM, SVM, PCA, SMOTE, Deep Learning Pipelines, Graph Neural Networks (GNNs)
+- **Bioinformatics**: CHiP-seq, RNA-seq, Mass Spec, Genome Annotation, Genome data pipelines
+- **Libraries**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Pytroch Geometric, Rdkit, Seaborn, Plotly, matplotlib
 - **Tools**: Git, Jupyter, Docker
 
 
