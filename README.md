@@ -2,7 +2,7 @@
 
 🎓 **M.S. Biology graduate from IISER Pune**  
 🔬 Aspiring **Computational Biologist** | 🤖 Budding **Data Scientist** | 💡 Machine Learning Enthusiast  
-📍 New Delhi, India | [LinkedIn](https://www.linkedin.com/in/pulkit1704)
+📍 New Delhi, India | [LinkedIn](https://www.linkedin.com/in/pulkit1704) | [Website](https://www.kitsp.net)
 
 
 ## 🧠 About Me
