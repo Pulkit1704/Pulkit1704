@@ -23,6 +23,12 @@ I’ve developed **deep learning pipelines**, analyzed **genomic datasets**, and
 - Built a binary sentiment classifier on the IMDB dataset.
 - Designed a custom preprocessing pipeline and trained an LSTM model (>85% accuracy).
 
+### 🦠 Metagenomic & Structural Pipeline Engineering (Code restricted)
+*Python, Linux, Bash Scripting, HMMER, BedTools, Modeller*
+- Engineered Linux-based pipeline infrastructure designed to process 8,000+ metagenomic sequences for automated similarity searches and de-novo functional annotations.
+- Developed a multi-stage Python workflow integrating homology modeling frameworks (Modeller), reducing manual data intervention by 70% and accelerating sequence-to-structure timelines.
+- Designed scalable pipelines to process large scal biological data on distributed systems accelerating processing times.
+
 ### 🧪 [Cancer Classifier](https://github.com/Pulkit1704/cancer-classifier.git)
 *Python, Scikit-learn, PCA, SMOTE*
 - Developed an SVM classifier for cancer subtype prediction from gene expression data.
@@ -34,7 +40,6 @@ I’ve developed **deep learning pipelines**, analyzed **genomic datasets**, and
 - Implemented Bemis-Murcko Scaffold Splitting on a merged BBBP/B3DB dataset to ensure model generalization across novel chemical families (0.82 F1-score).
 
 ## 🛠️ Skills
-
 - **Languages/Tools**: Python, Bash, Rust, Java, HTML, CSS and Javascript
 - **ML/DS**: CNN, LSTM, SVM, PCA, SMOTE, Deep Learning Pipelines, Graph Neural Networks (GNNs)
 - **Bioinformatics**: CHiP-seq, RNA-seq, Mass Spec, Genome Annotation, Genome data pipelines
